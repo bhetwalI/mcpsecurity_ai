@@ -1,0 +1,11 @@
+pandas
+openai
+python-dotenv
+fastapi
+uvicorn
+websockets
+sqlalchemy
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+emails

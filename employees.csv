@@ -1,0 +1,6 @@
+employee_id,name,department,email,absences
+101,Anita Sharma,HR,anita@example.com,2
+102,Ravi Patel,Finance,ravi@example.com,5
+103,Priya Karki,IT,priya@example.com,1
+104,Aman Joshi,Sales,aman@example.com,4
+105,Neha Singh,Marketing,neha@example.com,0
